@@ -45,4 +45,4 @@ Technical analysis for this project involved:
 
 ## Caveats and Assumptions
 This project uses Mark Bradbourne's [Real World Fake Data "Help Desk" dataset](https://data.world/markbradbourne/rwfd-real-world-fake-data/workspace/file?filename=Help+Desk.csv)
-- **WIP:** WIP
+- **Owner Group:** This column is assumed to be equivalent to an 'assignment group', the group who will be working on the request
