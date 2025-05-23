@@ -6,7 +6,7 @@ WIP
 
 Insights and recommendations are provided for the following key areas:
 - **Issue Trends:** Identification of notable issue categories, owner groups, and severities
-- **Mean Time to Resolution (MTTR):** Assessment of the average time required to resolve issues
+- **Mean Time to Resolution (MTTR):** Assessment of the time required to resolve issues
 - **Satisfaction Scores:** Evaluation of score trends, both overall and among various types of issues
 
 
