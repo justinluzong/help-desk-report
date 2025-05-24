@@ -42,7 +42,7 @@ IMAGE WIP
 - The overall MTTR across the dataset for resolved tickets is 19.4 days.
 - Across months, MTTR doubles from March 2020 (10.1 Days) to April 2020 (20.2).
 - MTTR stays relatively stable between April and October (18 ~ 20 Days), then nearly doubles from October (19.0) to December (35.7).
-- - MTTR stays relatively the same between issue severities, ranging from 19.0 to 19.8 days. High severity issues have an MTTR of 19.3 days.
+- MTTR stays relatively the same between issue severities, ranging from 19.0 to 19.8 days. High severity issues have an MTTR of 19.3 days.
 - The Access/Login issue category has the longest MTTR (20 Days). The Hardware category has the shortest (18.9 Days).
 - The Software owner group has the longest MTTR at 20 Days. MTTR does not vary much between owner groups, with the lowest average being from the Hardware owner group at 18.8 Days.   
 IMAGE WIP
