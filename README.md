@@ -2,16 +2,18 @@
 [Visualization on Tableau Public](https://public.tableau.com/app/profile/justinluzong/viz/HelpDeskReport_17477109774400/HelpDeskReport)
 
 ## Project Overview
-WIP
+Corevia Technologies is a managed IT service provider founded in 2010, offering 24/7 help desk and enterprise infrastructure support to clients across various sectors including logistics, fintech, and healthcare. 
+
+In response to scaling operations and increased client expectations, Corevia launched the “InsightOps” initiative in September 2020. This project aims to leverage analytics to identify opportunities for improved service to its customers.
 
 Insights and recommendations are provided for the following key areas:
-- **Issue Trends:** Identification of notable issue categories, owner groups, and severities
+- **Issue Trends:** Identification of inefficiencies in issue categories, owner groups, and severities
 - **Mean Time to Resolution (MTTR):** Assessment of the time required to resolve issues
 - **Satisfaction Scores:** Evaluation of score trends, both overall and among various types of issues
 
 
 ## Data Structure Overview
-The help desk ticket data consists of one table as seen below. The data extracted for this project spans from March 2020 to October 2020, with a total row count of 9,542 records.  
+Corevia Technologies' help desk ticket data consists of one table as seen below. The data extracted for this project spans from March 2020 to October 2020, with a total row count of 9,542 records.  
 
 <img src=https://github.com/user-attachments/assets/a2ff6396-1d24-483f-b548-accd869b48dd width="250">
 
