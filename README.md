@@ -24,15 +24,18 @@ WIP
 
 ## Insights Deep Dive
 ### Issue Category
-- The issue category with the largest amount of tickets is Access/Login (3453 tickets, 36.2%)  
+- The issue category with the largest amount of tickets is Access/Login (3453 tickets, 36.2%).
+- The Software category had the lowest ticket completion rate (13.9%). The Access/Login category had the highest completion rate (16.5%).
 IMAGE WIP
 
 ### Issue Severity
-- The Hardware owner group had the largest amount of high severity tickets (332 total). The Networking and Architecture groups follow closely (323 and 311 total respectively). The Software and Security and Governance groups have slightly lower counts (290 and 282 total respectively).  
+- The Hardware owner group had the largest amount of high severity tickets (332 total). The Networking and Architecture groups follow closely (323 and 311 total respectively). The Software and Security and Governance groups have slightly lower counts (290 and 282 total respectively).
+- High and Medium severity tickets have the lowest completion rates, with both at 14.9%. Low and Unassigned severity tickets have the highest completion rate, with both at 16.5%.
 IMAGE WIP
 
 ### Owner Groups
-- There is not much variance in total tickets between owner groups. The Hardware group had the largest amount of tickets (1996 total). The Software group had the lowest amount of tickets (1830 total).  
+- There is not much variance in total tickets between owner groups. The Hardware group had the largest amount of tickets (1996 total). The Software group had the lowest amount of tickets (1830 total).
+- The Architecture owner group had the lowest ticket completion rate (14.4%) while the Networking group had the highest completion rate (16.9%). Across all groups the completion rate is fairly low.  
 IMAGE WIP
 
 ### Ticket Status
@@ -58,10 +61,13 @@ IMAGE WIP
 
 
 ## Recommendations
-### WIP
+### Reducing Incomplete Ticket Rate
 - **WIP:** WIP
 
-### WIP
+### Improving Resolution Time
+- **WIP:** WIP
+
+### Gathering Satisfaction Scores and Feedback
 - **WIP:** WIP
 
 
